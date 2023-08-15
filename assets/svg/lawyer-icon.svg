@@ -1,0 +1,13 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Icon">
+<circle id="Background" cx="30" cy="30" r="30" fill="#041C40"/>
+<g id="Icon_2">
+<path id="Ellipse 15" d="M14.9999 31.973C14.9999 33.9083 15.6406 35.7644 16.7811 37.1329C17.9215 38.5014 19.4682 39.2703 21.081 39.2703C22.6938 39.2703 24.2406 38.5014 25.381 37.1329C26.5214 35.7644 27.1621 33.9083 27.1621 31.973L21.081 31.973L14.9999 31.973Z" fill="white"/>
+<path id="Ellipse 16" d="M32.8378 31.973C32.8378 33.9083 33.4785 35.7644 34.6189 37.1329C35.7594 38.5014 37.3061 39.2703 38.9189 39.2703C40.5317 39.2703 42.0785 38.5014 43.2189 37.1329C44.3593 35.7644 45 33.9083 45 31.973L38.9189 31.973L32.8378 31.973Z" fill="white"/>
+<path id="Vector 19" d="M15.811 31.973L20.202 23.8666C20.5803 23.1683 21.5824 23.1683 21.9606 23.8666L26.3516 31.973" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<path id="Vector 20" d="M33.6484 31.973L38.0394 23.8666C38.4177 23.1683 39.4198 23.1683 39.798 23.8666L44.189 31.973" stroke="white" stroke-width="2" stroke-linecap="round"/>
+<line id="Line 30" x1="20.5542" y1="21.5541" x2="39.4461" y2="21.5541" stroke="white" stroke-width="3" stroke-linecap="round"/>
+<line id="Line 31" x1="29.7163" y1="39.3918" x2="29.7163" y2="20.5" stroke="white" stroke-width="3" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
